@@ -1,0 +1,11 @@
+Client ID> 76dc91b7-9220-435a-aaeb-969fbbd5f2fa
+Client Secret> d3d8dd55-5561-46ee-a59f-feedf3f46442
+Callback URL> http://localhost:3001/authResult
+
+
+
+
+http://localhost:3001/authResult?code=Xz7NEKKqL0Ak1UHXK6ziNA6hmuyqoX
+&scope=inquiry%20login%20transfer&state=12345678901234567890123456789012
+
+
